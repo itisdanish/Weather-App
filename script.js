@@ -1,6 +1,6 @@
 const form = document.querySelector("form");
 const weatherInfo = document.getElementById("weather-info");
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = 4c4121d5dc064af769f502792203972b;
 
 form.addEventListener("submit", getWeather);
 
